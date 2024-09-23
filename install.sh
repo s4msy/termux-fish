@@ -13,7 +13,7 @@ chsh ~/../usr/bin/bash
 #prerequisites
 pkg install ruby
 gem install lolcat
-pkg install exa
+pkg install eza
 pkg install curl
 
 #install omf plugin fish shell
